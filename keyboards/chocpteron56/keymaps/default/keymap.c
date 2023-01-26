@@ -1,4 +1,4 @@
-#include "chocp56.h"
+#include "chocpteron56.h"
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
