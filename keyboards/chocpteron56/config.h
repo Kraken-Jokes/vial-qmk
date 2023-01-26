@@ -4,11 +4,11 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x6060
+#define VENDOR_ID       0x6D4B
+#define PRODUCT_ID      0x6356
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Moorekeys
-#define PRODUCT         Choc Pteron56-LX1
+#define PRODUCT         Choc Pteron56
 //DEPRECIATED #define DESCRIPTION     Keyboard
 
 /* key matrix size */
